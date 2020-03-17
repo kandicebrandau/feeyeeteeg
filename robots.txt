@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uojiefein.customtruckpainting.co.uk/sitemap.xml
